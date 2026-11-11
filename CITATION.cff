@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "Cardiac Amyloidosis Classification Using Clinical and Echocardiographic Predictors"
+type: software
+version: 1.0.0
+date-released: 2026-11-11
+doi: 10.5281/zenodo.24138984
+url: "https://doi.org/10.5281/zenodo.24138984"
+repository-code: "https://github.com/ARaclepius/cardiac-amyloidosis-ml"
+license: MIT
+authors:
+  - family-names: "Haghani"
+    given-names: "A. R."
+  - family-names: "Sharafi"
+    given-names: "A."
+keywords:
+  - cardiac amyloidosis
+  - machine learning
+  - echocardiography
+  - SHAP
+  - XGBoost

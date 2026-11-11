@@ -1,0 +1,14 @@
+# Restricted patient-level data -- never commit
+final_data.xlsx
+*.xlsx
+
+# Generated outputs
+ML_results/
+ML_results.zip
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+.DS_Store
