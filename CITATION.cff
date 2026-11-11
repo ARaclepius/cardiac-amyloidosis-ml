@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below and replace the DOI placeholder after Zenodo publication."
+title: "Cardiac Amyloidosis Classification Using Clinical and Echocardiographic Predictors"
+type: software
+version: 1.0.0
+date-released: 2026-11-11
+# TODO: Replace with the final author list and Zenodo DOI before publication.
+authors:
+  - family-names: "[Family name]"
+    given-names: "[Given name]"
+license: MIT
+
+repository-code: "https://github.com/<USERNAME>/<REPOSITORY>"
